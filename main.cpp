@@ -59,85 +59,94 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
+//  Noun: Car
+//  action 1: Move forwards
+    car.moveForwards();
+//  action 2: Uses gas
+    car.consumeGas();
+//  action 3: Emits fumes
+    car.emitExhaustFumes();
 
-//  action 2:
-
-//  action 3:
- 
 //  2)
-//  Noun:
-//  action 1:
+//  Noun: Jedi
+//  action 1: Use the Force
+    jedi.useTheForce();
+//  action 2: Arm lightsaber
+    jedi.armLightsaber();
+//  action 3: Speak to Yoda
+    jedi.speakToYoda();
+    
+//  3) 
+//  Noun: Lawyer
+//  action 1: Deliver Opening Argument
+    lawyer.openingArgument();
+//  action 2: Call out "objection"
+    lawyer.objection();
+//  action 3: Cross-examine witness
+    laywer.crossExamine();
 
-//  action 2:
+//  4) 
+//  Noun: Dog
+//  action 1: to Bark
+    dog.bark();
+//  action 2: Chase ball
+    dog.chaseBall();
+//  action 3: Wag tail
+    dog.wagTail();
 
-//  action 3:
- 
-//  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
 //  5)
-//  Noun:
-//  action 1:
+//  Noun: Dentist
+//  action 1: Inspect teeth
+    dentist.inspectTeeth();
+//  action 2: Pull tooth
+    dentist.pullTooth();
+//  action 3: Clean teeth
+    dentist.cleanTeeth();
 
-//  action 2:
-
-//  action 3:
- 
 //  6)
-//  Noun:
-//  action 1:
+//  Noun: Doctor
+//  action 1: Take X-Ray
+    doctor.takeXRay();
+//  action 2: Perform surgery
+    doctor.performSurgery();
+//  action 3: Prescribe medicine
+    doctor.prescribeMedicine();
 
-//  action 2:
-
-//  action 3:
- 
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: Monkey
+//  action 1: Swing on trees
+    monkey.swingOnTrees();
+//  action 2: Eat banana
+    monkey.eatBanana();
+//  action 3: Throw poop
+    monkey.throwPoop();
+    
 //  8)
-//  Noun:
-//  action 1:
+//  Noun: Website
+//  action 1: Report story
+    website.reportStory();
+//  action 2: Run competition
+    website.runCompetition();
+//  action 3: Update blog
+    website.updateBlog();
 
-//  action 2:
+//  9) 
+//  Noun: Football Player
+//  action 1: Workout
+    footballPlayer.workout();
+//  action 2: Catch Ball
+    footballPlayer.catchBall();
+//  action 3: Make $$$
+    footballPlayer.cashPayCheque();
 
-//  action 3:
- 
-//  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: Plant
+//  action 1: Bloom
+    plant.bloom();
+//  action 2: Photosynthesise
+    plant.photosynthesise();
+//  action 3: Eat nutrients
+    plant.eatNutrients();
 
 
 #endif
